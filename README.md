@@ -13,13 +13,17 @@ ida_all_xrefs_to_viewer-plugin-for-ida-pro,ida plugin
 - 3.前后上下文的反汇编和备注注释显示
 - 4.漂亮的体验皮肤主题
 
-
 ## install plugin, Installation and Use ##
 
 - 1 To install, copy the contents of the plugins directory in this repository to your %PROGRAMFILES%\IDA\plugins folder. 
 - 2 open ida ,select menu edit->plugins->winhex_diff_viewer.
 - 3 open winhex compare result diff text file.
 - 4 waitting plugin process end finished
+
+## other id pro plugin recommend ##
+- ida_all_xrefs_from_viewer https://github.com/zengfr/ida_all_xrefs_from_viewer-plugin-for-ida-pro
+- ida_all_xrefs_to_viewer https://github.com/zengfr/ida_all_xrefs_to_viewer-plugin-for-ida-pro
+- winhex_diff_viewer-plugin https://github.com/zengfr/winhex_diff_viewer-plugin-for-ida-pro
 
 ## plugin, demo and screenshot and video ##
 
