@@ -28,6 +28,6 @@ ida_all_xrefs_to_viewer-plugin-for-ida-pro,ida plugin
 ## plugin, demo and screenshot and video ##
 
 v0.37
-- https://www.bilibili.com/video/BV1r841187FM/
+- https://www.bilibili.com/video/BV1LM411C7Yd/
 
 ![image](https://user-images.githubusercontent.com/9524903/202171612-34732d74-f610-42b4-b5df-34e097493a9d.png)
