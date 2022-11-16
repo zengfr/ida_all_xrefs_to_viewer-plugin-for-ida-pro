@@ -16,7 +16,7 @@ ida_all_xrefs_to_viewer-plugin-for-ida-pro,ida plugin
 ## install plugin, Installation and Use ##
 
 - 1 To install, copy the contents of the plugins directory in this repository to your %PROGRAMFILES%\IDA\plugins folder. 
-- 2 open ida ,select menu edit->plugins->winhex_diff_viewer.
+- 2 open ida ,select menu edit->plugins->ida_all_xrefs_to_viewer.
 - 3 open winhex compare result diff text file.
 - 4 waitting plugin process end finished
 
