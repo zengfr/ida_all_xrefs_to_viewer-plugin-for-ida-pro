@@ -20,11 +20,11 @@ ida_all_xrefs_to_viewer-plugin-for-ida-pro,ida plugin
 - 3 open winhex compare result diff text file.
 - 4 waitting plugin process end finished
 
-## other id pro plugin recommend ##
+## other ida pro plugin recommend ##
 - ida_all_xrefs_from_viewer https://github.com/zengfr/ida_all_xrefs_from_viewer-plugin-for-ida-pro
 - ida_all_xrefs_to_viewer https://github.com/zengfr/ida_all_xrefs_to_viewer-plugin-for-ida-pro
 - winhex_diff_viewer-plugin https://github.com/zengfr/winhex_diff_viewer-plugin-for-ida-pro
-
+- HexRaysCodeXplorer for ida pro 7.7 https://github.com/zengfr/HexRaysCodeXplorer_plugin_for_ida_pro
 ## ida idb database share for game hacking and reverse analysis engineering
 -  site: https://github.com/zengfr/ida-pro-idb-database
 
